@@ -1,12 +1,14 @@
 - 👋 Hi, I’m Sandile
 - 👀 I'm an IT professional🎓 with a keen interest in AWS Cloud Computing☁️, Cyber Security🔒, Artificial Intelligence, Machine Learning and Data science.
   
+  
 - 🛠️ Skills
 - **Programming Languages**: Python, Shell Scripting
 - **Databases**: SQL Server, MySQL
 - **Operating Systems**: Windows, Linux
 - **Cloud Platforms**: AWS
 - **Tools**: Git, Jenkins, Ansible
+  
 
 - ## 📚 Projects: AWS Cloud Projects (Personal Projects)
 - **AWS Cloud Infrastructure Monitoring**: Built a project that involves monitoring and optimizing cloud resources using AWS CloudWatch.
