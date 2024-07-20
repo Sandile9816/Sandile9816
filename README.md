@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sandile
 - 👀 I'm an IT professional🎓 with a keen interest in AWS Cloud Computing☁️, Cyber Security🔒, Artificial Intelligence, Machine Learning and Data science.
-- 
+  
 - 🛠️ Skills
 - **Programming Languages**: Python, Shell Scripting
 - **Databases**: SQL Server, MySQL
