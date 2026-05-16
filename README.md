@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Sandile Mkhize
 
-🚀 Aspiring Cloud Engineer | DevOps Learner | Cybersecurity Enthusiast  
+🚀 Aspiring Cloud Engineer | DevOps Learner 
 
 I’m passionate about building secure, scalable, and cloud-native solutions using AWS and modern DevOps tools.  
-My goal is to grow into a highly skilled Cloud & Security Engineer who creates impactful technology solutions.
+My goal is to grow into a highly skilled Cloud Engineer who creates impactful technology solutions.
 
 ---
 
