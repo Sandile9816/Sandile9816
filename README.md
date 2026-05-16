@@ -1,32 +1,83 @@
-- 👋 Hi, I’m Sandile
-- 👀 I'm an IT professional🎓 with a keen interest in AWS Cloud Computing☁️, Cyber Security🔒, Artificial Intelligence, Machine Learning and Data science.
-  
-  
-- 🛠️ Skills
-- **Programming Languages**: Python, Shell Scripting
-- **Databases**: SQL Server, MySQL
-- **Operating Systems**: Windows, Linux
-- **Cloud Platforms**: AWS
-- **Tools**: Git, Jenkins, Ansible
-  
+# 👋 Hi, I'm Sandile Mkhize
 
-- ## 📚 Projects: AWS Cloud Projects (Personal Projects)
-- **AWS Cloud Infrastructure Monitoring**: Built a project that involves monitoring and optimizing cloud resources using AWS CloudWatch.
-- **Serverless Web Application**: Developed a serverless web application using AWS Lambda, Amazon API Gateway, and Amazon S3.
-- **AWS Cloud Security:** Implemented a project focused on securing cloud infrastructure and applications.
-- **Cloud Migration Project:** Planned and executed a cloud migration project, moving an existing application or infrastructure to AWS.
-- **CI/CD Pipeline with AWS CodePipeline:** Set up a continuous integration and continuous deployment (CI/CD) pipeline using AWS CodePipeline.
+🚀 Aspiring Cloud Engineer | DevOps Learner  
 
+I’m passionate about building secure, scalable, and cloud-native solutions using AWS and modern DevOps tools.  
+My goal is to grow into a highly skilled Cloud & Security Engineer who creates impactful technology solutions.
 
-- 🌱 I’m currently learning ...AWS Computing services
-- 💞️ I’m looking to collaborate on any cloud projects
+---
 
-- 📫  Contact
-- [LinkedIn](https://www.linkedin.com/in/sandile-mkhize-23912218a/)
-- [Email](sandilemkeyze@gmail.com)
-- 
+## ☁️ About Me
 
-<!---
-Sandile9816/Sandile9816 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Currently working on AWS cloud and automation projects  
+- 🌱 Learning advanced AWS services, DevOps, and Cloud Security  
+- 🛡️ Interested in Cybersecurity, Infrastructure Security, and Automation  
+- 🤖 Exploring Artificial Intelligence & Machine Learning  
+- 💡 Passionate about solving real-world problems with technology  
+- 🎯 Focused on continuous learning and hands-on experience  
+
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+## 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 AWS Cloud Infrastructure Monitoring
+Built a cloud monitoring solution using AWS CloudWatch to improve visibility, performance, and resource optimization.
+
+## ⚡ Serverless Web Application
+Developed a scalable serverless web app using:
+- AWS Lambda  
+- Amazon API Gateway  
+- Amazon S3  
+
+## 🔒 AWS Cloud Security Project
+Implemented cloud security best practices including IAM policies, secure access management, and monitoring.
+
+## 🔄 CI/CD Pipeline with AWS CodePipeline
+Automated application deployment workflows using AWS CodePipeline and DevOps practices.
+
+## ☁️ Cloud Migration Project
+Planned and migrated applications and infrastructure to AWS cloud environments.
+
+---
+
+# 📈 Goals for 2026
+
+- ✅ Earn AWS Certifications  
+- ✅ Master DevOps & Automation  
+- ✅ Build production-ready cloud projects  
+- ✅ Contribute to open-source projects  
+- ✅ Grow as a Cloud Security Engineer  
+
+---
+
+# 🤝 Let's Connect
+
+- 💼 LinkedIn: [Sandile Mkhize](https://www.linkedin.com/in/sandile-mkhize-23912218a/)
+- 📧 Email: sandilemkeyze@gmail.com
+
+---
+
+⭐ *“Always learning, always building, always improving.”*
+```
