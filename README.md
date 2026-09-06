@@ -118,7 +118,7 @@ Infrastructure-as-Code project focused on provisioning and managing AWS infrastr
 * Reproducible deployments
 * Cost awareness
 
-🔗 **Repository:** `[ADD REPOSITORY LINK]`
+🔗 **Repository:** `[REPOSITORY LINK]`
 
 ---
 
@@ -136,7 +136,7 @@ Automated CI/CD workflow for a containerized application using GitHub Actions an
 * CI/CD automation
 * Deployment workflows
 
-🔗 **Repository:** `[ADD REPOSITORY LINK]`
+🔗 **Repository:** `[REPOSITORY LINK]`
 
 ---
 
