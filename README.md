@@ -1,88 +1,277 @@
-# 👋 Hi, I'm Sandile Mkhize
+👋 Hi, I'm Sandile Mkhize
+☁️ Cloud & DevOps Engineer | AWS | Linux | Automation
 
-🚀 Cloud Engineer & DevOps Engineer 
+I'm a Junior Cloud & DevOps Engineer with professional IT experience, focused on building practical skills in cloud infrastructure, automation, CI/CD, containerization, monitoring, and cloud security.
 
-I’m passionate about building secure, scalable, and cloud-native solutions using AWS and modern DevOps tools.  
-My goal is to grow into a highly skilled Cloud Engineer who creates impactful technology solutions.
+I enjoy turning infrastructure and operational challenges into reliable, automated solutions while continuously developing my skills through hands-on projects, cloud labs, and real-world technical problem solving.
 
----
+Currently focused on AWS, Terraform, Linux, Docker, GitHub Actions, Python, Bash, CI/CD, and cloud observability.
 
-## ☁️ About Me
+🧑‍💻 About Me
+☁️ Building hands-on experience with AWS Cloud
+🏗️ Practicing Infrastructure as Code with Terraform
+🔄 Building CI/CD workflows with GitHub Actions and Jenkins
+🐳 Learning and applying Docker and containerization
+🐧 Developing Linux administration and Bash automation skills
+🐍 Using Python and PowerShell for automation and operational tasks
+📊 Exploring Grafana, Prometheus, and cloud observability
+🔐 Interested in cloud security, reliability, and infrastructure automation
+📨 Building foundational knowledge of event-driven and messaging platforms
+📚 Continuously improving through hands-on labs, projects, and technical learning
+🛠️ Technology Stack
+☁️ Cloud
 
-- 🔭 Currently working on AWS cloud and automation projects  
-- 🌱 Learning advanced AWS services, DevOps, and Cloud Security   
-- 🤖 Exploring Artificial Intelligence & Machine Learning  
-- 💡 Passionate about solving real-world problems with technology  
-- 🎯 Focused on continuous learning and hands-on experience  
+Amazon EC2 • S3 • IAM • VPC • Lambda • CloudWatch • Route 53 • API Gateway
 
----
+🏗️ DevOps & Infrastructure
 
-# 🛠️ Tech Stack
+Infrastructure as Code • CI/CD • Configuration Management • Version Control • Automation
 
-## ☁️ Cloud & DevOps
+🐧 Systems & Automation
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Linux Administration • Bash Scripting • Python Automation • PowerShell • Windows
 
-## 💻 Programming & Scripting
+📊 Monitoring & Observability
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+Grafana • Prometheus • AWS CloudWatch • Monitoring • Logging • Observability
 
-## 🗄️ Databases
+📨 Event Streaming & Integration
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+Apache Kafka • Apache NiFi • RabbitMQ • RTI
 
-## 🖥️ Operating Systems
+Currently developing hands-on knowledge of event-driven architectures, messaging systems, data pipelines, topics, queues, workflows, and integration platforms.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+☸️ Containers & Orchestration
 
----
+Docker • Kubernetes • OpenShift
 
-# 🚀 Featured Projects
+Currently developing practical knowledge of container orchestration, deployments, services, workloads, and containerized application environments.
 
-## 📊 AWS Cloud Infrastructure Monitoring
-Built a cloud monitoring solution using AWS CloudWatch to improve visibility, performance, and resource optimization.
+💻 Development
 
-## ⚡ Serverless Web Application
-Developed a scalable serverless web application using:
-- AWS Lambda  
-- Amazon API Gateway  
-- Amazon S3  
+Java • JavaScript • Spring Boot • REST APIs
 
-## 🔒 AWS Cloud Security Project
-Implemented cloud security best practices, including IAM policies, secure access management, and monitoring.
+🗄️ Databases
 
-## 🔄 CI/CD Pipeline with AWS CodePipeline
-Automated application deployment workflows using AWS CodePipeline and DevOps practices.
+SQL • PostgreSQL • MySQL • SQL Server
 
-## ☁️ Cloud Migration Project
-Planned and migrated applications and infrastructure to AWS cloud environments.
+🚀 Featured Projects
+☁️ AWS Infrastructure with Terraform
 
----
+Status: 🟡 In Progress
 
-# 📈 Goals for 2026
+Infrastructure-as-Code project focused on provisioning and managing AWS resources using Terraform.
 
-- ✅ Earn AWS Certifications  
-- ✅ Master DevOps & Automation  
-- ✅ Build production-ready cloud projects  
-- ✅ Contribute to open-source projects  
-- ✅ Grow as a Cloud Security Engineer  
+Technologies: AWS • Terraform • IAM • VPC • EC2 • S3 • CloudWatch
 
----
+Key areas:
 
-# 🤝 Let's Connect
+Infrastructure as Code
+AWS networking
+IAM and security
+Infrastructure monitoring
+Reproducible deployments
+Cost awareness
 
-- 💼 LinkedIn: [Sandile Mkhize](https://www.linkedin.com/in/sandile-mkhize-23912218a/)
-- 📧 Email: sandilemkeyze@gmail.com  
+🔗 Repository: [REPOSITORY LINK]
 
----
+🔄 Docker & GitHub Actions CI/CD Pipeline
 
-⭐ *"Always learning, always building, always improving."*
+Automated CI/CD workflow for a containerized application using GitHub Actions and Docker.
+
+Technologies: Git • GitHub Actions • Docker • CI/CD • Testing
+
+Key areas:
+
+Source control
+Automated testing
+Container image creation
+CI/CD workflow automation
+Deployment pipelines
+
+🔗 Repository: [REPOSITORY LINK]
+
+⚡ AWS Serverless Application
+
+Status: 🟡 In Progress
+
+Hands-on AWS project exploring serverless application architecture using managed cloud services.
+
+Technologies: AWS Lambda • API Gateway • S3 • IAM • CloudWatch
+
+Key areas:
+
+Serverless architecture
+API integration
+IAM permissions
+Monitoring
+Cloud-native application design
+
+🔗 Repository: [REPOSITORY LINK]
+
+📊 AWS Monitoring & Observability
+
+Status: 🟡 In Progress
+
+Cloud monitoring project focused on improving visibility into infrastructure performance, application health, logs, metrics, and operational events.
+
+Technologies: AWS CloudWatch • Grafana • Prometheus
+
+Key areas:
+
+Metrics
+Logs
+Dashboards
+Alerts
+Infrastructure monitoring
+Observability
+
+🔗 Repository: [REPOSITORY LINK]
+
+🐧 Linux Infrastructure Automation
+
+Status: 🟡 In Progress
+
+Collection of practical Bash and Python automation scripts for common Linux administration and DevOps tasks.
+
+Technologies: Linux • Bash • Python • Git
+
+Key areas:
+
+System administration
+Log analysis
+File management
+Service management
+System monitoring
+Automation
+
+🔗 Repository: [REPOSITORY LINK]
+
+🎫 Helpdesk Ticketing System
+
+A Java/Spring Boot application for managing support tickets and demonstrating application development and database integration.
+
+Technologies: Java • Spring Boot • Spring MVC • Spring Data JPA • H2 • Maven
+
+Key areas:
+
+Application development
+REST/application architecture
+Database integration
+Ticket management
+Troubleshooting workflows
+
+🔗 Repository: https://github.com/Sandile9816/helpdesk-system
+
+🧪 Cloud Labs & Hands-On Learning
+
+I also use structured cloud labs and practical exercises to strengthen my hands-on knowledge.
+
+☁️ AWS Labs
+
+Hands-on AWS exercises covering areas such as:
+
+IAM
+EC2
+S3
+VPC
+Lambda
+CloudWatch
+Route 53
+RDS
+Serverless architectures
+Security
+High availability
+Cost optimization
+🧰 Whizlabs Projects & Labs
+
+
+🔗 Whizlabs / Project Repository: 
+
+I use hands-on labs as a way to build practical skills and validate my understanding of cloud and DevOps concepts.
+
+📚 Currently Learning
+☁️ Cloud & Infrastructure
+Advanced AWS architecture
+Terraform
+Infrastructure as Code
+Cloud security
+High availability
+Cost optimization
+🚀 DevOps
+Docker
+CI/CD
+GitHub Actions
+Jenkins
+Ansible
+Deployment automation
+📨 Event Streaming & Integration
+Apache Kafka
+Apache NiFi
+RabbitMQ
+RTI
+Event-driven architectures
+Data pipelines and messaging
+☸️ Containers
+Kubernetes
+Red Hat OpenShift
+Containerized application deployment
+📊 Observability
+Grafana
+Prometheus
+AWS CloudWatch
+Monitoring
+Logging
+Incident troubleshooting
+🐧 Linux
+Red Hat / CentOS administration
+Bash scripting
+System services
+Logs
+Networking
+SSH
+System monitoring
+🔧 DevOps & Operational Tools
+
+I'm also developing practical familiarity with tools commonly used in enterprise support and DevOps environments:
+
+Jira • Confluence • Postman • PuTTY • FileZilla • mRemote • PagerDuty • Visual Studio
+
+My focus is on understanding how these tools fit into incident management, troubleshooting, API testing, documentation, remote administration, file transfers, and DevOps operational workflows.
+
+🏅 Certification
+AWS Certified Cloud Practitioner
+
+AWS certification demonstrating foundational knowledge of AWS Cloud concepts, services, security, architecture, pricing, and cloud technology.
+
+📈 GitHub Activity
+
+🎯 Career Focus
+
+My goal is to grow into a highly capable Cloud & DevOps Engineer, with strong practical skills across:
+
+Cloud Infrastructure
+        ↓
+Infrastructure as Code
+        ↓
+Automation
+        ↓
+CI/CD
+        ↓
+Containers
+        ↓
+Monitoring & Observability
+        ↓
+Reliability & Security
+
+I'm particularly interested in building and operating reliable cloud infrastructure, automating repetitive operational tasks, improving deployment processes, and developing strong troubleshooting and incident-management skills.
+
+🤝 Let's Connect
+
+💼 LinkedIn: Sandile Mkhize
+
+🐙 GitHub: Sandile9816
+
+📧 Email: sandilemkeyze@gmail.com
+
+⚡ Always learning. Always building. Always improving.
